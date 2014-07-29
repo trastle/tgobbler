@@ -9,7 +9,7 @@ Build
 
 Build the app
 
-    $ mvn clean build
+    $ mvn clean package
     
     
 Run
